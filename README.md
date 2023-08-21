@@ -1,6 +1,7 @@
 # Engineering Management and Hydropower Consultant
  
-**insert picture of self here**
+![profile](/images/profile.jpeg)
+
 ## About Aidan
 
 • Coursework: Analog Design, Digital Design, Prototyping, Engineering Computation,          Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering, Electromagnetics
