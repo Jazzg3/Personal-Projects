@@ -2,7 +2,11 @@
  
 **insert picture of self here**
 ## About Aidan
-add personal descriptors, etc cover leter style
+• Coursework: Analog Design, Digital Design, Prototyping, Engineering Computation,          Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering, Electromagnetics
+
+• Technical Skills: C, Arduino, Verilog, Python, Excel, MATLAB, Microsoft Teams, Github
+
+• Certifications: NFPA 70E, OSHA-10, Electrical Safety and LOTO for General Industry
 
 ## My work with Yonder Deep
 **add a 2-4 picture spread**
