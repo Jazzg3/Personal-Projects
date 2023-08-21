@@ -1,4 +1,4 @@
-# Electrical Engineering and Hydropower Consultant
+# Engineering Management and Hydropower Consultant
  
 **insert picture of self here**
 ## About Aidan
@@ -10,7 +10,8 @@
 
 ## My work with Yonder Deep
 **add a 2-4 picture spread**
-
+![yonderdeep1](/images/yonderdeep-1.jpeg)
+![yonderdeep2](/images/YD2.jpeg)
 Responsible for managing a dozen engineers and all electrical related tasks. Top technician in the design, prototyping, and manufacturing process of an unmanned submersible meant to conduct climate change research projects in adverse temperature conditions. Responsible for effective coordination with Mechanical and Software engineering teams. Responsible for field repairs and maintenance of all electrical equipment. Responsible for delegation of tasks and meeting deadlines.
 
 
