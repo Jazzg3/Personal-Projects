@@ -1,4 +1,4 @@
-# Engineering Management and Consulting
+# Electrical Engineering Services
  
 ![profile](/images/profile.jpeg)
 
