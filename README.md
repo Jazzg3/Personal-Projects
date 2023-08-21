@@ -1,14 +1,14 @@
-# Engineering Management and Hydropower Consultant
+# Engineering Management and Consulting
  
 ![profile](/images/profile.jpeg)
 
 ## About Aidan
-
-• Coursework: Analog Design, Digital Design, Prototyping, Engineering Computation,          Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering, Electromagnetics
+• Certifications: NFPA 70E, OSHA-10, Electrical Safety and LOTO for General Industry
 
 • Technical Skills: C, Arduino, Verilog, Python, Excel, MATLAB, Microsoft Teams, Github
 
-• Certifications: NFPA 70E, OSHA-10, Electrical Safety and LOTO for General Industry
+• Coursework: Analog Design, Digital Design, Prototyping, Engineering Computation,          Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering, Electromagnetics
+
 
 ## My work with Yonder Deep
 ![yonderdeep1](/images/yonderdeep-1.jpeg)
