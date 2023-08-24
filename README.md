@@ -23,9 +23,3 @@ I worked as a full time field technician on Amazon data center sites for six wee
 ![hydro](/images/hydro.jpeg)
 
 In a consulting role for Calaveras Hydropower, I conducted a survey of a potential new aquisition, a 750kw hydropower plant fed by a small dam in the foothills. My tasks included technical assesments, troubleshooting, and data analysis.
-
-
-### contact me at:
-867-5309
-
-FBI'@gmail.gov
