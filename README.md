@@ -23,4 +23,4 @@ I worked as a full-time field technician on Amazon data center sites for six wee
 ## Rural Hydropower
 ![hydro](/images/hydro.jpeg)
 
-In a consulting role for Calaveras Hydropower, I conducted a survey of a potential new aquisition, a 750kw hydropower plant fed by a small dam in the foothills. This 750kw hydropower plant is set up to sell power to PG&E directly, which is the company that provides electricity to millions the of people living in Northern California. My tasks included conducting technical assesments, troubleshooting, performing data analysis, and manual opperations tests.
+In a consulting role for Calaveras Hydropower, I conducted a survey of a potential new aquisition, a 750kw hydropower plant fed by a small dam in the foothills. This 750kw hydropower plant is set up to sell power to PG&E directly, which is the company that provides electricity to millions of people living in Northern California. My tasks included conducting technical assesments, troubleshooting, performing data analysis, and executing manual opperation tests.
