@@ -17,7 +17,7 @@ I am currently responsible for managing a dozen engineers and all electrical-rel
 
 ## Amazon site work
 ![IEM1](/images/IEM1.jpeg)
-While working for IEM, now part of Siemens, I worked as a full-time field technician on Amazon data center sites for six weeks as part of the commissioning team tasked with final installation, safety and electrical checks, and general fixes. Before this, I completed six weeks of training on low and medium voltage switchgear design, assembly, and testing at the IEM Florida switchgear factory. I also received training in the basics of engineering management. Additionally, I participated in final maintinence and administrative handover of the responsibility for switchgear to Amazon Web Services. 
+While working for IEM, the largest independent switchgear manufacturer at the time, I was as a full-time field technician on Amazon data center sites for six weeks as part of the commissioning team tasked with final installation, safety and electrical checks, and general fixes. Before this, I completed six weeks of training on low and medium voltage switchgear design, assembly, and testing at the IEM Florida switchgear factory. I also received training in the basics of engineering management. Additionally, I participated in final maintinence and administrative handover of the responsibility for switchgear to Amazon Web Services. 
 
 
 ## Rural Hydropower
