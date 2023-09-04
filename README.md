@@ -10,7 +10,7 @@
 • Coursework: Analog Design, Digital Design, Rapid Prototyping, Engineering Computation, Electromagnetics, Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering
 
 
-## My work with Yonder Deep
+## My work with Yonder Deep at UCSD
 ![yonderdeep1](/images/yonderdeep-1.jpeg)
 I am currently responsible for managing a dozen engineers and all electrical-related tasks and deadlines for Yonder Deep. I'm the top technician in the designing, prototyping, and manufacturing process of our unmanned autonomus submersible that is meant to conduct climate change research projects in adverse temperature conditions. I'm also responsible for effective coordination with Mechanical and Software engineering teams as well as for field repairs and maintenance of all electrical equipment.
 
