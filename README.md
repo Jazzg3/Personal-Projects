@@ -7,9 +7,9 @@
 
 • Technical Skills: C, Arduino, Verilog, Python, Excel, MATLAB, Microsoft Teams, Github, Cura
 
-• Coursework: Analog and Digital Design, Rapid Prototyping, Engineering Computation, Electromagnetics, Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering
+• Coursework: Analog & Digital Design, Rapid Prototyping, Engineering Computation, Electromagnetics, Mechanics & Quantum Physics, Linear Algebra, Science & Engineering Calculus
 
-• Hobbies: Painting miniatures, hiking in the Sierra Nevadas, spending time with friends and family
+• Hobbies: Painting miniatures, hiking in the Sierra Nevadas, and spending time with friends and family
 
 
 ## My Work with Yonder Deep at UCSD - Current
