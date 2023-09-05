@@ -25,5 +25,5 @@ While working for IEM, the largest independent switchgear manufacturer at the ti
 In a consulting role for Calaveras Hydropower, I conducted a survey of a potential new aquisition, a 750kw hydropower plant fed by a small dam in the foothills. This 750kw hydropower plant is set up to sell power to PG&E directly, which is the company that provides electricity to millions of people living in Northern California. My tasks included conducting technical assesments, troubleshooting, performing data analysis, and executing manual opperation tests.
 
 ### [View My Full Resume](https://docs.google.com/document/d/165-N3KmZEAScZV9fTHE-tC_whMpmxLpkPXbgptGUaxA/edit?usp=sharing)
-### [Connecct on LinkedIn](https://www.linkedin.com/in/aidan-garamendi/)
+### [Connect on LinkedIn](https://www.linkedin.com/in/aidan-garamendi/)
 
