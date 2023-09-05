@@ -9,7 +9,7 @@
 
 • Coursework: Analog Design, Digital Design, Rapid Prototyping, Engineering Computation, Electromagnetics, Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering
 
-• Hobbies: Painting miniatures, hiking in the Sierra Nevada mountains, and spending time with family
+• Hobbies: Painting miniatures, hiking in the Sierra Nevadas, and spending time with friends and family
 
 
 ## My Work with Yonder Deep at UCSD - Current
