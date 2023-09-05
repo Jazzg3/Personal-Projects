@@ -5,11 +5,11 @@
 ## About Aidan
 • Certifications: NFPA 70E, OSHA-10, Electrical Safety and LOTO for General Industry
 
-• Technical Skills: C, Arduino, Verilog, Python, Excel, MATLAB, Microsoft Teams, Github, Ultimaker-Cura
+• Technical Skills: C, Arduino, Verilog, Python, Excel, MATLAB, Microsoft Teams, Github, Cura
 
 • Coursework: Analog Design, Digital Design, Rapid Prototyping, Engineering Computation, Electromagnetics, Physics-Mechanics, Quantum Physics, Linear Algebra, Calculus-Science & Engineering
 
-• Hobbies: Painting miniatures, hiking in the Sierra Nevada mountains, and spending time with friends and family
+• Hobbies: Painting miniatures, hiking in the Sierra Nevada mountains, and spending time with family
 
 
 ## My Work with Yonder Deep at UCSD - Current
